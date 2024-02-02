@@ -1,0 +1,1 @@
+This script/Function receives data in form of a xlsx, data frame or a matrix and it filters for missing data for both row and column and it recommends the adoption of the one with the lowest percentage data loss of both methods. The data and motivation to write this script was gotten from Professor Armin Schmitt course titled Breeding Informatic…
